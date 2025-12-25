@@ -1,4 +1,4 @@
-# 42 C++ Mini Projects — BigInt, vect2, PolySet
+# Mini C++ Projects — BigInt, vect2, PolySet
 
 This file gives a short and clear explanation of each project (BigInt, vect2, and PolySet), what they are meant to train, and how to compile and run them.
 
